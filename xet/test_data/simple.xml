@@ -1,0 +1,5 @@
+<phonebook user="sivachandra">
+  <contact name="user1" number="12345" />
+  <contact name="user2" number="23456" />
+  <contact name="user3" number="34567" />
+</phonebook>
